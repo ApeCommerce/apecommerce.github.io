@@ -1,12 +1,12 @@
 version: '3.8'
 
 services:
-  site:
-    image: apecommerce/website
-    build:
-      context: .
-    command: server
+  hugo:
+    image: klakegg/hugo:ext-alpine
+    user: ${UID:-1000}:${GID:-1000}
+    working_dir: /ape-website
+    entrypoint: tail -f /dev/null
     ports:
-      - 8080:1313
+      - ${PORT:-8080}:1313
     volumes:
-      - .:/src
+      - .:/ape-website

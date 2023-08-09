@@ -1,4 +1,4 @@
-module github.com/ApeCommerce/website
+module github.com/ApeCommerce/ape-website
 
 go 1.12
 
