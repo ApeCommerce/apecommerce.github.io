@@ -1,5 +1,7 @@
 # Ape Commerce website
 
+Ape Commerce documentation website using [Hugo](https://gohugo.io) framework.
+
 ## Setup
 
 To customize the default website local port or UID / GID, create a `.env` file:
