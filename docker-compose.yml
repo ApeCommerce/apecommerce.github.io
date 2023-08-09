@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   hugo:
-    image: klakegg/hugo:ext-alpine
+    image: klakegg/hugo:0.111.3-ext-alpine
     user: ${UID:-1000}:${GID:-1000}
     working_dir: /ape-website
     entrypoint: tail -f /dev/null
