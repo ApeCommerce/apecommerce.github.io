@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  site:
+    image: apecommerce/website
+    build:
+      context: .
+    command: server
+    ports:
+      - 8080:1313
+    volumes:
+      - .:/src
