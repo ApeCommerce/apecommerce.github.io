@@ -41,8 +41,31 @@ Scenester tumeric pickled, authentic crucifix post-ironic fam freegan VHS pork b
 
 ### Header 3
 
-```
-This is a code block following a header.
+```js
+// boot.ts
+import { Boot } from '@ape-framework/server/boot';
+import { Bundle } from '@ape-framework/server/boot/bundle';
+import { send } from '@ape-framework/server/api/handler';
+
+const welcomeBundle: Bundle = {
+  bundleId: 'welcome',
+  name: 'Welcome',
+  routes: [
+    {
+      endpoint: {
+        method: 'GET',
+        path: '/hello',
+      },
+      handler: async (request, reply) => send(reply, 'Hello Ape!'),
+    },
+  ],
+};
+
+const boot: Boot = {
+  bundles: async () => [welcomeBundle],
+};
+
+export default boot;
 ```
 
 Next level leggings before they sold out, PBR&B church-key shaman echo park. Kale chips occupy godard whatever pop-up freegan pork belly selfies. Gastropub Belinda subway tile woke post-ironic seitan. Shabby chic man bun semiotics vape, chia messenger bag plaid cardigan.
