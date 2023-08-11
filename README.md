@@ -1,14 +1,6 @@
 # Ape Commerce website
 
-Ape Commerce documentation website using [Hugo](https://gohugo.io) framework.
-
-## Setup
-
-To customize the default website local port or UID / GID, create a `.env` file:
-
-```
-cp .env.sample .env
-```
+Ape Commerce documentation website using [Hugo](https://gohugo.io) framework with the [Docsy](https://www.docsy.dev) theme.
 
 ## Development
 
@@ -24,7 +16,7 @@ Get a shell from the Hugo container:
 docker compose exec hugo bash
 ```
 
-Start server (http://localhost:8080):
+Start server (http://localhost:1313):
 
 ```
 hugo server

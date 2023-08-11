@@ -7,6 +7,6 @@ services:
     working_dir: /ape-website
     entrypoint: tail -f /dev/null
     ports:
-      - ${PORT:-8080}:1313
+      - 1313:1313
     volumes:
       - .:/ape-website
