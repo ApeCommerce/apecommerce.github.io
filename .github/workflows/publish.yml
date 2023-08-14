@@ -33,8 +33,6 @@ jobs:
 
       - name: Checkout
         uses: actions/checkout@v3
-        with:
-          submodules: recursive
 
       - name: Install Node.js dependencies
         run: yarn
@@ -44,8 +42,7 @@ jobs:
         uses: actions/configure-pages@v3
 
       - name: Build site
-        run: |
-          hugo --minify -b "${{ steps.pages.outputs.base_url }}/"
+        run: hugo --minify -b "${{ steps.pages.outputs.base_url }}/"
         env:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
