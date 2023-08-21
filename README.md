@@ -16,6 +16,12 @@ Get a shell from the Hugo container:
 docker compose exec hugo bash
 ```
 
+Build local search index:
+
+```
+hugo
+```
+
 Start server (http://localhost:1313):
 
 ```
