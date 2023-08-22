@@ -1,27 +1,20 @@
 baseURL = "/"
 title = "Ape Commerce"
-contentDir = "content"
 disableKinds = ["taxonomy", "term"]
-enableRobotsTXT = true
-pygmentsCodeFences = true
-pygmentsUseClasses = false
-pygmentsUseClassic = false
 
 [module.hugoVersion]
 extended = true
 [[module.imports]]
 path = "github.com/google/docsy"
-disable = false
 [[module.imports]]
 path = "github.com/google/docsy/dependencies"
-disable = false
 
 [markup.goldmark.parser.attribute]
 block = true
 [markup.goldmark.renderer]
 unsafe = true
 [markup.highlight]
-style = "dracula"
+style = "pygments"
 
 [imaging]
 resampleFilter = "Lanczos"
@@ -36,7 +29,6 @@ id = "UA-00000000-0"
 
 [params]
 copyright = "Ape Commerce"
-github_repo = "https://github.com/ApeCommerce/apecommerce.github.io"
 offlineSearch = true
 algolia_docsearch = false
 
