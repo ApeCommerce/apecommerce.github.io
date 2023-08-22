@@ -1,4 +1,5 @@
 ---
+type: blog
+weight: 2
 title: News
-weight: 20
 ---
