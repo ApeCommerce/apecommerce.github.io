@@ -1,5 +1,5 @@
 ---
 type: blog
 weight: 1
-linkTitle: Releases
+linkTitle: Ape Commerce
 ---

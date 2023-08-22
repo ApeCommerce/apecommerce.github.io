@@ -1,5 +1,6 @@
 ---
 type: blog
-title: Blog
+weight: 3
 menu: {main: {weight: 3}}
+linkTitle: Blog
 ---

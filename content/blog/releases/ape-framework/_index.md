@@ -1,5 +1,5 @@
 ---
 type: blog
 weight: 2
-title: News
+linkTitle: Ape Framework
 ---
