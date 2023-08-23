@@ -1,5 +1,7 @@
 name: Publish website
 
+run-name: Publish website
+
 on:
   push:
     branches: [main]
