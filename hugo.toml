@@ -36,8 +36,3 @@ algolia_docsearch = false
 navbar_translucent_over_cover_disable = true
 sidebar_menu_compact = true
 footer_about_disable = true
-
-[[params.links.developer]]
-name = "GitHub"
-icon = "fab fa-github"
-url = "https://github.com/ApeCommerce"
