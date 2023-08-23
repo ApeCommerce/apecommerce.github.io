@@ -2,5 +2,5 @@
 type: blog
 weight: 3
 menu: {main: {weight: 3}}
-linkTitle: Blog
+title: Blog
 ---

@@ -1,5 +1,5 @@
 ---
 type: blog
 weight: 1
-linkTitle: Releases
+title: Releases
 ---
