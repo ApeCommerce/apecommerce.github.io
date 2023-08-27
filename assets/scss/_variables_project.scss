@@ -1,6 +1,83 @@
-/*
+// Ape variables
+$ape_yellow: #E5B517;
+$ape_orange: #E56317;
+$ape_pink: #E51785;
+$ape_purple: #4E17E5;
+$ape_blue: #17A8E5;
 
-Add styles or override variables from the theme here.
+$ape_yellow_dark_1: #CCA714;
+$ape_yellow_dark_2: #B29212;
+$ape_yellow_dark_3: #997D0F;
+$ape_yellow_dark_4: #80690D;
+$ape_yellow_dark_5: #66540A;
 
-*/
+$ape_orange_dark_1: #CC5814;
+$ape_orange_dark_2: #B24D12;
+$ape_orange_dark_3: #99420F;
+$ape_orange_dark_4: #80370D;
+$ape_orange_dark_5: #662C0A;
 
+$ape_pink_dark_1: #CC1476;
+$ape_pink_dark_2: #B21268;
+$ape_pink_dark_3: #990F59;
+$ape_pink_dark_4: #800D4A;
+$ape_pink_dark_5: #660A3B;
+
+$ape_purple_dark_1: #4514CC;
+$ape_purple_dark_2: #3D12B2;
+$ape_purple_dark_3: #340F99;
+$ape_purple_dark_4: #2B0D80;
+$ape_purple_dark_5: #230A66;
+
+$ape_blue_dark_1: #1495CC;
+$ape_blue_dark_2: #1282B2;
+$ape_blue_dark_3: #0F7099;
+$ape_blue_dark_4: #0D5D80;
+$ape_blue_dark_5: #0A4A66;
+
+$ape_yellow_light_1: #E5C12E;
+$ape_yellow_light_2: #E5C545;
+$ape_yellow_light_3: #E5CA5C;
+$ape_yellow_light_4: #E5CF73;
+$ape_yellow_light_5: #E5D38A;
+
+$ape_orange_light_1: #E5712E;
+$ape_orange_light_2: #E58045;
+$ape_orange_light_3: #E58E5C;
+$ape_orange_light_4: #E59D73;
+$ape_orange_light_5: #E5AB8A;
+
+$ape_pink_light_1: #E52E90;
+$ape_pink_light_2: #E5459B;
+$ape_pink_light_3: #E55CA5;
+$ape_pink_light_4: #E573B0;
+$ape_pink_light_5: #E58ABB;
+
+$ape_purple_light_1: #5F2EE5;
+$ape_purple_light_2: #7045E5;
+$ape_purple_light_3: #815CE5;
+$ape_purple_light_4: #9173E5;
+$ape_purple_light_5: #A28AE5;
+
+$ape_blue_light_1: #2EAEE5;
+$ape_blue_light_2: #45B5E5;
+$ape_blue_light_3: #5CBCE5;
+$ape_blue_light_4: #73C3E5;
+$ape_blue_light_5: #8ACAE5;
+
+// Bootstrap variables
+$enable-shadows: false;
+$enable-gradients: true;
+$enable-rounded: false;
+$enable-transitions: true;
+
+$primary: $ape_blue_dark_5;
+$secondary: $ape_blue_light_3;
+$success: $ape_blue_light_3;
+$info: $ape_yellow_light_3;
+$warning: $ape_orange_light_3;
+$danger: $ape_pink_light_3;
+
+// Docsy variables
+$google_font_name: "Roboto";
+$google_font_family: "Roboto:300,300i,400,400i,700,700i";

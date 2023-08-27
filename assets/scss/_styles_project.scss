@@ -1,0 +1,38 @@
+// Navbar
+.td-navbar .navbar-brand {
+  padding: 0;
+}
+
+.td-navbar .navbar-brand svg {
+  margin: 0;
+  height: 40px;
+  width: auto;
+}
+
+.td-navbar .navbar-brand__name {
+  display: none;
+}
+
+.td-navbar .td-search {
+  display: none;
+}
+
+// Sidebar
+.td-sidebar__search {
+  margin: 0;
+  padding: 1rem 0;
+}
+
+// Footer
+.td-footer {
+  min-height: 0;
+  padding: 2rem 0;
+}
+
+.td-footer .col-6 {
+  display: none;
+}
+
+.td-footer .td-footer__copyright-etc {
+  width: 100%;
+}
