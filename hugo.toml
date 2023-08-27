@@ -28,7 +28,7 @@ section = ["HTML", "RSS", "print"]
 id = "UA-00000000-0"
 
 [params]
-copyright = "Ape Commerce"
+copyright = "— The Ape Commerce Authors —"
 offlineSearch = true
 algolia_docsearch = false
 
