@@ -1,6 +1,8 @@
 ---
 title: Ape Commerce — Open Source Digital Commerce
-description: Ape Commerce is a containerized e-commerce platform featuring a web API, an admin application and a storefront.
+description: >
+  Ape Commerce is a containerized e-commerce platform featuring a web API, an admin panel and a storefront.
+  It is open source software released under the MIT License.
 ---
 
 {{< blocks/cover title="Ape Commerce" >}}
