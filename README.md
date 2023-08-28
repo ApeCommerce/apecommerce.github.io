@@ -22,7 +22,7 @@ Build local search index:
 hugo
 ```
 
-Start server at http://localhost:1313:
+Start dev server:
 
 ```
 hugo server
