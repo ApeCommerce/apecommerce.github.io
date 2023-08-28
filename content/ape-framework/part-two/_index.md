@@ -1,5 +1,4 @@
 ---
-type: docs
-weight: 2
 title: Part 2
+weight: 2
 ---
