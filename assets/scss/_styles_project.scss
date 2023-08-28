@@ -19,7 +19,22 @@
 
 // Sidebar
 .td-sidebar {
-  padding-bottom: 2rem;
+  padding-bottom: 0;
+}
+
+@media (min-width: 768px) {
+  .td-sidebar {
+    padding-bottom: 2rem;
+  }
+}
+
+.td-sidebar-nav {
+  margin: 0;
+  padding: 0;
+}
+
+.td-sidebar-nav > .td-sidebar-nav__section {
+  padding: 0;
 }
 
 .td-sidebar__search {
