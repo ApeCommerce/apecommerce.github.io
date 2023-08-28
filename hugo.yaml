@@ -1,0 +1,47 @@
+baseURL: /
+title: Ape Commerce
+
+disableKinds:
+  - taxonomy
+  - term
+
+module:
+  hugoVersion:
+    extended: true
+  imports:
+    - path: github.com/google/docsy
+    - path: github.com/google/docsy/dependencies
+
+markup:
+  goldmark:
+    parser:
+      attribute:
+        block: true
+    renderer:
+      unsafe: true
+  highlight:
+    style: pygments
+
+imaging:
+  resampleFilter: Lanczos
+  anchor: Center
+  quality: 80
+
+outputs:
+  section:
+    - HTML
+    - RSS
+    - print
+
+services:
+  googleAnalytics:
+    id: UA-00000000-0
+
+params:
+  ui:
+    navbar_translucent_over_cover_disable: true
+    sidebar_menu_compact: true
+    footer_about_disable: true
+  copyright: — The Ape Commerce Authors —
+  offlineSearch: true
+  algolia_docsearch: false
