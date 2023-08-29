@@ -9,4 +9,13 @@ menu:
     weight: 1
 ---
 
-Hello!
+{{<tabpane >}}
+ {{<tab header="foo.ts" lang="ts">}}
+const foo = false;
+{{</tab>}}
+{{<tab header="foo.js" lang="js">}}
+const foo = false;
+{{</tab>}}
+{{</tabpane>}}
+
+Hello
