@@ -51,3 +51,17 @@
 .td-footer .td-footer__copyright-etc {
   width: 100%;
 }
+
+// Link down
+.td-box .td-arrow-down::before {
+  bottom: -20px;
+}
+
+// Tabs
+.td-content .nav-tabs {
+  border: none;
+}
+
+.tab-content .tab-pane {
+  border: 1px solid rgba(0, 0, 0, 0.125);
+}
