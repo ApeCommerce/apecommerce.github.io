@@ -3,14 +3,19 @@ title: Ape Commerce — Open Source Digital Commerce
 description: Ape Commerce is a containerized e-commerce platform featuring a web API, admin panel and store front. The project is open source and released under the MIT License.
 ---
 
-{{<blocks/lead height="full" color="light">}}
-  <a class="btn btn-secondary me-3 mb-5" href="/documentation">
-    <i class="fa fa-file-lines me-1"></i> Documentation
-  </a>
-  <a class="btn btn-secondary me-3 mb-5" href="https://github.com/ApeCommerce/ape-commerce" target="_blank">
-    <i class="fab fa-github me-1"></i> GitHub
-  </a>
-  {{<blocks/link-down color="info">}}
+{{<blocks/lead height="full" color="success">}}
+  <h1>
+    <img alt="Ape Commerce" src="/images/ape_commerce_vertical.svg">
+  </h1>
+  <div class="mt-5 mb-5">
+    <a class="btn btn-secondary mx-2 my-2" href="/documentation">
+      <i class="fa fa-file-lines me-2"></i> Documentation
+    </a>
+    <a class="btn btn-secondary mx-2 my-2" href="https://github.com/ApeCommerce/ape-commerce" target="_blank">
+      <i class="fab fa-github me-2"></i> GitHub
+    </a>
+  </div>
+  {{<blocks/link-down color="primary">}}
 {{</blocks/lead>}}
 
 {{<blocks/lead color="primary">}}
@@ -21,18 +26,30 @@ description: Ape Commerce is a containerized e-commerce platform featuring a web
   Secondary !
 {{</blocks/lead>}}
 
-{{<blocks/lead color="success">}}
+{{<blocks/section color="success">}}
   Success !
-{{</blocks/lead>}}
+{{</blocks/section>}}
 
-{{<blocks/lead color="info">}}
+{{<blocks/section color="info">}}
   Info !
-{{</blocks/lead>}}
+{{</blocks/section>}}
 
-{{<blocks/lead color="warning">}}
+{{<blocks/section color="warning">}}
   Warning !
-{{</blocks/lead>}}
+{{</blocks/section>}}
 
-{{<blocks/lead color="danger">}}
+{{<blocks/section color="danger">}}
   Danger !
-{{</blocks/lead>}}
+{{</blocks/section>}}
+
+{{<blocks/section color="dark" type="row">}}
+  {{<blocks/feature icon="fa-lightbulb" title="Fastest rocket on the planet!" url="/documentation">}}
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  {{</blocks/feature>}}
+  {{<blocks/feature icon="fa-brands fa-github" title="Contributions welcome!">}}
+    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  {{</blocks/feature>}}
+  {{<blocks/feature icon="fa-brands fa-twitter" title="Follow us on Twitter!">}}
+    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  {{</blocks/feature>}}
+{{</blocks/section>}}
