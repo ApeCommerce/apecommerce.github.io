@@ -1,4 +1,8 @@
 // Navbar
+.td-navbar {
+  background: $ape_blue_dark_3;
+}
+
 .td-navbar .navbar-brand {
   padding: 0;
 }
@@ -7,6 +11,7 @@
   margin: 0;
   height: 40px;
   width: auto;
+  max-width: 100%;
 }
 
 .td-navbar .navbar-brand__name {
@@ -52,7 +57,23 @@
   width: 100%;
 }
 
-// Link down
+// Main section
+.td-default main > section:first-of-type img {
+  width: 300px;
+  height: auto;
+}
+
+.td-default main > section:first-of-type {
+  padding: 2rem 0 4rem 0;
+}
+
+@media (min-width: 768px) {
+  .td-default main > section:first-of-type {
+      padding: 6rem 0 4rem 0;
+  }
+}
+
+// Lead link down
 .td-box .td-arrow-down::before {
   bottom: -20px;
 }
@@ -64,4 +85,9 @@
 
 .tab-content .tab-pane {
   border: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+// Images
+img {
+  max-width: 100%;
 }
