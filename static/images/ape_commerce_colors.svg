@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="240" viewBox="0 0 360 240">
+  <defs>
+    <style>
+      .c {
+        fill: #a28ae5;
+      }
+
+      .d, .e {
+        fill: #fff;
+      }
+
+      .f {
+        fill: #3d12b2;
+      }
+
+      .g {
+        fill: #997d0f;
+      }
+
+      .h {
+        fill: #4e17e5;
+      }
+
+      .i {
+        fill: #80370d;
+      }
+
+      .j {
+        fill: #e5712e;
+      }
+
+      .k {
+        fill: #80690d;
+      }
+
+      .l {
+        fill: #e59d73;
+      }
+
+      .m {
+        fill: #340f99;
+      }
+
+      .n {
+        fill: #9173e5;
+      }
+
+      .o {
+        fill: #5cbce5;
+      }
+
+      .p {
+        fill: #815ce5;
+      }
+
+      .q {
+        fill: #cc5814;
+      }
+
+      .r {
+        fill: #b21268;
+      }
+
+      .s, .e {
+        font-family: CourierNewPSMT, 'Courier New';
+        font-size: 12px;
+      }
+
+      .t {
+        fill: #660a3b;
+      }
+
+      .u {
+        fill: #e5ab8a;
+      }
+
+      .v {
+        fill: #5f2ee5;
+      }
+
+      .w {
+        fill: #99420f;
+      }
+
+      .x {
+        fill: #1495cc;
+      }
+
+      .y {
+        fill: #40f;
+      }
+
+      .z {
+        fill: #b24d12;
+      }
+
+      .aa {
+        fill: #2eaee5;
+      }
+
+      .ab {
+        fill: #2b0d80;
+      }
+
+      .ac {
+        fill: #e51785;
+      }
+
+      .ad {
+        fill: #e5459b;
+      }
+
+      .ae {
+        fill: #e56317;
+      }
+
+      .af {
+        fill: #0a4a66;
+      }
+
+      .ag {
+        fill: #45b5e5;
+      }
+
+      .ah {
+        fill: #73c3e5;
+      }
+
+      .ai {
+        fill: #230a66;
+      }
+
+      .aj {
+        fill: #17a8e5;
+      }
+
+      .ak {
+        fill: #990f59;
+      }
+
+      .al {
+        fill: #e5ca5c;
+      }
+
+      .am {
+        fill: #66540a;
+      }
+
+      .an {
+        fill: #00b2ff;
+      }
+
+      .ao {
+        fill: #4514cc;
+      }
+
+      .ap {
+        fill: #ff5d00;
+      }
+
+      .aq {
+        fill: #e5bc17;
+      }
+
+      .ar {
+        fill: #b29212;
+      }
+
+      .as {
+        fill: #e55ca5;
+      }
+
+      .at {
+        fill: #e58abb;
+      }
+
+      .au {
+        fill: #662c0a;
+      }
+
+      .av {
+        fill: #cc1476;
+      }
+
+      .aw {
+        fill: #1282b2;
+      }
+
+      .ax {
+        fill: #e5d38a;
+      }
+
+      .ay {
+        fill: #8acae5;
+      }
+
+      .az {
+        fill: #0f7099;
+      }
+
+      .ba {
+        fill: #fc0;
+      }
+
+      .bb {
+        fill: #e5c12e;
+      }
+
+      .bc {
+        fill: #f08;
+      }
+
+      .bd {
+        fill: #e5cf73;
+      }
+
+      .be {
+        fill: #0d5d80;
+      }
+
+      .bf {
+        fill: #e573b0;
+      }
+
+      .bg {
+        fill: #800d4a;
+      }
+
+      .bh {
+        fill: #e52e90;
+      }
+
+      .bi {
+        fill: #e58e5c;
+      }
+
+      .bj {
+        fill: #cca714;
+      }
+
+      .bk {
+        fill: #e58045;
+      }
+
+      .bl {
+        fill: #e5c545;
+      }
+
+      .bm {
+        fill: #7045e5;
+      }
+    </style>
+  </defs>
+  <g id="a" data-name="swatches">
+    <rect class="ap" x="120" width="60" height="20"/>
+    <rect class="bc" x="180" width="60" height="20"/>
+    <rect class="y" x="240" width="60" height="20"/>
+    <rect class="an" x="300" width="60" height="20"/>
+    <rect class="ba" x="60" width="60" height="20"/>
+    <rect class="ae" x="120" y="20" width="60" height="20"/>
+    <rect class="ac" x="180" y="20" width="60" height="20"/>
+    <rect class="h" x="240" y="20" width="60" height="20"/>
+    <rect class="aj" x="300" y="20" width="60" height="20"/>
+    <rect class="aq" x="60" y="20" width="60" height="20"/>
+    <rect class="q" x="120" y="40" width="60" height="20"/>
+    <rect class="av" x="180" y="40" width="60" height="20"/>
+    <rect class="ao" x="240" y="40" width="60" height="20"/>
+    <rect class="x" x="300" y="40" width="60" height="20"/>
+    <rect class="bj" x="60" y="40" width="60" height="20"/>
+    <rect class="z" x="120" y="60" width="60" height="20"/>
+    <rect class="r" x="180" y="60" width="60" height="20"/>
+    <rect class="f" x="240" y="60" width="60" height="20"/>
+    <rect class="aw" x="300" y="60" width="60" height="20"/>
+    <rect class="ar" x="60" y="60" width="60" height="20"/>
+    <rect class="w" x="120" y="80" width="60" height="20"/>
+    <rect class="ak" x="180" y="80" width="60" height="20"/>
+    <rect class="m" x="240" y="80" width="60" height="20"/>
+    <rect class="az" x="300" y="80" width="60" height="20"/>
+    <rect class="g" x="60" y="80" width="60" height="20"/>
+    <rect class="i" x="120" y="100" width="60" height="20"/>
+    <rect class="bg" x="180" y="100" width="60" height="20"/>
+    <rect class="ab" x="240" y="100" width="60" height="20"/>
+    <rect class="be" x="300" y="100" width="60" height="20"/>
+    <rect class="k" x="60" y="100" width="60" height="20"/>
+    <rect class="au" x="120" y="120" width="60" height="20"/>
+    <rect class="t" x="180" y="120" width="60" height="20"/>
+    <rect class="ai" x="240" y="120" width="60" height="20"/>
+    <rect class="af" x="300" y="120" width="60" height="20"/>
+    <rect class="am" x="60" y="120" width="60" height="20"/>
+    <rect class="j" x="120" y="140" width="60" height="20"/>
+    <rect class="bh" x="180" y="140" width="60" height="20"/>
+    <rect class="v" x="240" y="140" width="60" height="20"/>
+    <rect class="aa" x="300" y="140" width="60" height="20"/>
+    <rect class="bb" x="60" y="140" width="60" height="20"/>
+    <rect class="bk" x="120" y="160" width="60" height="20"/>
+    <rect class="ad" x="180" y="160" width="60" height="20"/>
+    <rect class="bm" x="240" y="160" width="60" height="20"/>
+    <rect class="ag" x="300" y="160" width="60" height="20"/>
+    <rect class="bl" x="60" y="160" width="60" height="20"/>
+    <rect class="bi" x="120" y="180" width="60" height="20"/>
+    <rect class="as" x="180" y="180" width="60" height="20"/>
+    <rect class="p" x="240" y="180" width="60" height="20"/>
+    <rect class="o" x="300" y="180" width="60" height="20"/>
+    <rect class="al" x="60" y="180" width="60" height="20"/>
+    <rect class="l" x="120" y="200" width="60" height="20"/>
+    <rect class="bf" x="180" y="200" width="60" height="20"/>
+    <rect class="n" x="240" y="200" width="60" height="20"/>
+    <rect class="ah" x="300" y="200" width="60" height="20"/>
+    <rect class="bd" x="60" y="200" width="60" height="20"/>
+    <rect class="u" x="120" y="220" width="60" height="20"/>
+    <rect class="at" x="180" y="220" width="60" height="20"/>
+    <rect class="c" x="240" y="220" width="60" height="20"/>
+    <rect class="ay" x="300" y="220" width="60" height="20"/>
+    <rect class="ax" x="60" y="220" width="60" height="20"/>
+    <rect class="d" x="0" y="0" width="60" height="240"/>
+  </g>
+  <g id="b" data-name="colors">
+    <text class="s" transform="translate(68.3964844 13.6777344)"><tspan x="0" y="0">FFCC00</tspan></text>
+    <text class="e" transform="translate(68.3964844 73.6777344)"><tspan x="0" y="0">B29212</tspan></text>
+    <text class="e" transform="translate(68.3964844 53.6777344)"><tspan x="0" y="0">CCA714</tspan></text>
+    <text class="s" transform="translate(68.3964844 33.6777344)"><tspan x="0" y="0">E5BC17</tspan></text>
+    <text class="s" transform="translate(128.3964844 33.6777344)"><tspan x="0" y="0">E56317</tspan></text>
+    <text class="s" transform="translate(128.3964844 13.6777344)"><tspan x="0" y="0">FF5D00</tspan></text>
+    <text class="e" transform="translate(188.3964844 133.6777344)"><tspan x="0" y="0">660A3B</tspan></text>
+    <text class="e" transform="translate(128.3964844 73.6777344)"><tspan x="0" y="0">B24D12</tspan></text>
+    <text class="e" transform="translate(128.3964844 53.6777344)"><tspan x="0" y="0">CC5814</tspan></text>
+    <text class="e" transform="translate(68.3964844 113.6777344)"><tspan x="0" y="0">80690D</tspan></text>
+    <text class="e" transform="translate(188.3964844 73.6777344)"><tspan x="0" y="0">B21268</tspan></text>
+    <text class="e" transform="translate(188.3964844 53.6777344)"><tspan x="0" y="0">CC1476</tspan></text>
+    <text class="s" transform="translate(188.3964844 33.6777344)"><tspan x="0" y="0">E51785</tspan></text>
+    <text class="s" transform="translate(188.3964844 13.6777344)"><tspan x="0" y="0">FF0088</tspan></text>
+    <text class="e" transform="translate(68.3964844 133.6777344)"><tspan x="0" y="0">66540A</tspan></text>
+    <text class="e" transform="translate(128.3964844 93.6777344)"><tspan x="0" y="0">99420F</tspan></text>
+    <text class="e" transform="translate(248.3964844 133.6777344)"><tspan x="0" y="0">230A66</tspan></text>
+    <text class="e" transform="translate(248.3964844 113.6777344)"><tspan x="0" y="0">2B0D80</tspan></text>
+    <text class="e" transform="translate(248.3964844 93.6777344)"><tspan x="0" y="0">340F99</tspan></text>
+    <text class="e" transform="translate(308.3964844 133.6777344)"><tspan x="0" y="0">0A4A66</tspan></text>
+    <text class="e" transform="translate(308.3964844 113.6777344)"><tspan x="0" y="0">0D5D80</tspan></text>
+    <text class="e" transform="translate(308.3964844 93.6777344)"><tspan x="0" y="0">0F7099</tspan></text>
+    <text class="e" transform="translate(188.3964844 93.6777344)"><tspan x="0" y="0">990F59</tspan></text>
+    <text class="e" transform="translate(128.3964844 113.6777344)"><tspan x="0" y="0">80370D</tspan></text>
+    <text class="e" transform="translate(128.3964844 133.6777344)"><tspan x="0" y="0">662C0A</tspan></text>
+    <text class="e" transform="translate(188.3964844 113.6777344)"><tspan x="0" y="0">800D4A</tspan></text>
+    <text class="e" transform="translate(68.3964844 93.6777344)"><tspan x="0" y="0">997D0F</tspan></text>
+    <text class="s" transform="translate(308.3964844 13.6777344)"><tspan x="0" y="0">00B2FF</tspan></text>
+    <text class="s" transform="translate(308.3964844 33.6777344)"><tspan x="0" y="0">17A8E5</tspan></text>
+    <text class="e" transform="translate(308.3964844 53.6777344)"><tspan x="0" y="0">1495CC</tspan></text>
+    <text class="e" transform="translate(308.3964844 73.6777344)"><tspan x="0" y="0">1282B2</tspan></text>
+    <text class="e" transform="translate(248.3964844 13.6777344)"><tspan x="0" y="0">4400FF</tspan></text>
+    <text class="e" transform="translate(248.3964844 33.6777344)"><tspan x="0" y="0">4E17E5</tspan></text>
+    <text class="e" transform="translate(248.3964844 53.6777344)"><tspan x="0" y="0">4514CC</tspan></text>
+    <text class="e" transform="translate(248.3964844 73.6777344)"><tspan x="0" y="0">3D12B2</tspan></text>
+    <text class="s" transform="translate(68.3964844 153.6777344)"><tspan x="0" y="0">E5C12E</tspan></text>
+    <text class="s" transform="translate(68.3964844 173.6777344)"><tspan x="0" y="0">E5C545</tspan></text>
+    <text class="s" transform="translate(68.3964844 233.6777344)"><tspan x="0" y="0">E5D38A</tspan></text>
+    <text class="s" transform="translate(68.3964844 213.6777344)"><tspan x="0" y="0">E5CF73</tspan></text>
+    <text class="s" transform="translate(68.3964844 193.6777344)"><tspan x="0" y="0">E5CA5C</tspan></text>
+    <text class="s" transform="translate(248.3964844 153.6777344)"><tspan x="0" y="0">5F2EE5</tspan></text>
+    <text class="s" transform="translate(308.3964844 233.6777344)"><tspan x="0" y="0">8ACAE5</tspan></text>
+    <text class="s" transform="translate(308.3964844 213.6777344)"><tspan x="0" y="0">73C3E5</tspan></text>
+    <text class="s" transform="translate(308.3964844 193.6777344)"><tspan x="0" y="0">5CBCE5</tspan></text>
+    <text class="s" transform="translate(308.3964844 173.6777344)"><tspan x="0" y="0">45B5E5</tspan></text>
+    <text class="s" transform="translate(308.3964844 153.6777344)"><tspan x="0" y="0">2EAEE5</tspan></text>
+    <text class="s" transform="translate(248.3964844 233.6777344)"><tspan x="0" y="0">A28AE5</tspan></text>
+    <text class="s" transform="translate(248.3964844 213.6777344)"><tspan x="0" y="0">9173E5</tspan></text>
+    <text class="s" transform="translate(248.3964844 193.6777344)"><tspan x="0" y="0">815CE5</tspan></text>
+    <text class="s" transform="translate(248.3964844 173.6777344)"><tspan x="0" y="0">7045E5</tspan></text>
+    <text class="s" transform="translate(188.3964844 233.6777344)"><tspan x="0" y="0">E58ABB</tspan></text>
+    <text class="s" transform="translate(188.3964844 213.6777344)"><tspan x="0" y="0">E573B0</tspan></text>
+    <text class="s" transform="translate(188.3964844 193.6777344)"><tspan x="0" y="0">E55CA5</tspan></text>
+    <text class="s" transform="translate(188.3964844 173.6777344)"><tspan x="0" y="0">E5459B</tspan></text>
+    <text class="s" transform="translate(188.3964844 153.6777344)"><tspan x="0" y="0">E52E90</tspan></text>
+    <text class="s" transform="translate(128.3964844 193.6777344)"><tspan x="0" y="0">E58E5C</tspan></text>
+    <text class="s" transform="translate(128.3964844 213.6777344)"><tspan x="0" y="0">E59D73</tspan></text>
+    <text class="s" transform="translate(128.3964844 233.6777344)"><tspan x="0" y="0">E5AB8A</tspan></text>
+    <text class="s" transform="translate(128.3964844 173.6777344)"><tspan x="0" y="0">E58045</tspan></text>
+    <text class="s" transform="translate(128.3964844 153.6777344)"><tspan x="0" y="0">E5712E</tspan></text>
+    <text class="s" transform="translate(15.5976563 13.6777344)"><tspan x="0" y="0">root</tspan></text>
+    <text class="s" transform="translate(15.5976563 33.6777344)"><tspan x="0" y="0">base</tspan></text>
+    <text class="s" transform="translate(8.3964844 53.6777344)"><tspan x="0" y="0">dark_1</tspan></text>
+    <text class="s" transform="translate(8.3964844 73.6777344)"><tspan x="0" y="0">dark_2</tspan></text>
+    <text class="s" transform="translate(8.3964844 93.6777344)"><tspan x="0" y="0">dark_3</tspan></text>
+    <text class="s" transform="translate(8.3964844 113.6777344)"><tspan x="0" y="0">dark_4</tspan></text>
+    <text class="s" transform="translate(8.3964844 133.6777344)"><tspan x="0" y="0">dark_5</tspan></text>
+    <text class="s" transform="translate(4.7958984 153.6777344)"><tspan x="0" y="0">light_1</tspan></text>
+    <text class="s" transform="translate(4.7958984 173.6777344)"><tspan x="0" y="0">light_2</tspan></text>
+    <text class="s" transform="translate(4.7958984 193.6777344)"><tspan x="0" y="0">light_3</tspan></text>
+    <text class="s" transform="translate(4.7958984 213.6777344)"><tspan x="0" y="0">light_4</tspan></text>
+    <text class="s" transform="translate(4.7958984 233.6777344)"><tspan x="0" y="0">light_5</tspan></text>
+  </g>
+</svg>
