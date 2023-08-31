@@ -1,19 +1,10 @@
 // Navbar
-.td-navbar .navbar-brand {
-  padding: 0;
-}
-
 .td-navbar .navbar-brand svg {
   margin: 0;
-  height: 26px;
   width: auto;
-  max-width: 100%;
 }
 
-.td-navbar .navbar-brand__name {
-  display: none;
-}
-
+.td-navbar .navbar-brand__name,
 .td-navbar .td-search {
   display: none;
 }
@@ -55,7 +46,7 @@
 
 // Main section
 .td-default main > section:first-of-type img {
-  width: 300px;
+  width: 360px;
   height: auto;
 }
 
@@ -74,6 +65,18 @@
   bottom: -20px;
 }
 
+// RSS button
+.td-blog .td-rss-button {
+  background-color: $secondary;
+  color: white;
+  font-size: 24px;
+}
+
+.td-blog .td-rss-button:hover {
+  background-color: $danger;
+  color: white;
+}
+
 // Tabs
 .td-content .nav-tabs {
   border: none;
@@ -84,6 +87,6 @@
 }
 
 // Images
-img {
+img, svg {
   max-width: 100%;
 }
