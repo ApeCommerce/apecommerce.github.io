@@ -46,8 +46,8 @@
 
 // Main section
 .td-default main > section:first-of-type img {
-  width: 360px;
-  height: auto;
+  width: 340px;
+  max-width: 60%;
 }
 
 .td-default main > section:first-of-type {
@@ -67,14 +67,19 @@
 
 // RSS button
 .td-blog .td-rss-button {
-  background-color: $secondary;
+  background-color: $ape_pink;
   color: white;
   font-size: 24px;
 }
 
 .td-blog .td-rss-button:hover {
-  background-color: $danger;
+  background-color: $ape_pink_dark_3;
   color: white;
+}
+
+// Article meta
+.td-content .article-meta {
+  display: none;
 }
 
 // Tabs
