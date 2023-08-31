@@ -8,7 +8,7 @@
       }
 
       .b, .c {
-        stroke: #fff;
+        stroke: #000;
         stroke-miterlimit: 10;
       }
 
