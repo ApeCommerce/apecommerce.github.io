@@ -1,3 +1,9 @@
+// Images
+img,
+svg {
+  max-width: 100%;
+}
+
 // Navbar
 .td-navbar .navbar-brand svg {
   margin: 0;
@@ -44,7 +50,38 @@
   width: 100%;
 }
 
-// Main section
+// Main
+.td-404 main,
+.td-main main {
+  padding-top: 0;
+  padding-bottom: 2rem;
+}
+
+@media (min-width: 768px) {
+  .td-404 main,
+  .td-main main {
+    padding-top: 5.5rem;
+  }
+}
+
+// Content meta
+.td-content .article-meta {
+  display: none;
+}
+
+// RSS button
+.td-blog .td-rss-button {
+  background-color: $ape_pink;
+  color: white;
+  font-size: 20px;
+}
+
+.td-blog .td-rss-button:hover {
+  background-color: $ape_pink_dark_3;
+  color: white;
+}
+
+// Home first section
 .td-default main>section:first-of-type {
   padding: 2rem 0 5rem 0;
 }
@@ -60,23 +97,6 @@
   bottom: -20px;
 }
 
-// RSS button
-.td-blog .td-rss-button {
-  background-color: $ape_pink;
-  color: white;
-  font-size: 24px;
-}
-
-.td-blog .td-rss-button:hover {
-  background-color: $ape_pink_dark_3;
-  color: white;
-}
-
-// Article meta
-.td-content .article-meta {
-  display: none;
-}
-
 // Tabs
 .td-content .nav-tabs {
   border: none;
@@ -84,10 +104,4 @@
 
 .tab-content .tab-pane {
   border: 1px solid rgba(0, 0, 0, 0.125);
-}
-
-// Images
-img,
-svg {
-  max-width: 100%;
 }
