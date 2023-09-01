@@ -19,7 +19,13 @@ svg {
 .td-sidebar {
   padding-left: 0;
   padding-right: 0;
-  padding-bottom: 2rem;
+  padding-bottom: 0;
+}
+
+@media (min-width: 768px) {
+  .td-sidebar {
+    padding-bottom: 2rem;
+  }
 }
 
 .td-sidebar-nav {
@@ -36,7 +42,13 @@ svg {
 .td-sidebar__search {
   margin-left: 0;
   margin-right: 0;
-  padding: 1.5rem 1rem 2rem 1rem;
+  padding: 1rem;
+}
+
+@media (min-width: 768px) {
+  .td-sidebar__search {
+    padding: 1.5rem 1rem 2rem 1rem;
+  }
 }
 
 // Footer
