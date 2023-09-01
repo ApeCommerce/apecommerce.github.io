@@ -1,6 +1,7 @@
 // Navbar
 .td-navbar .navbar-brand svg {
   margin: 0;
+  height: 32px;
   width: auto;
 }
 
@@ -25,7 +26,7 @@
   padding: 0;
 }
 
-.td-sidebar-nav > .td-sidebar-nav__section {
+.td-sidebar-nav>.td-sidebar-nav__section {
   padding: 0;
 }
 
@@ -37,7 +38,7 @@
 // Footer
 .td-footer {
   min-height: 0;
-  padding: 2rem 0;
+  padding: 1.5rem 0;
 }
 
 .td-footer .td-footer__copyright-etc {
@@ -45,18 +46,18 @@
 }
 
 // Main section
-.td-default main > section:first-of-type img {
+.td-default main>section:first-of-type img {
   width: 340px;
   max-width: 60%;
 }
 
-.td-default main > section:first-of-type {
+.td-default main>section:first-of-type {
   padding: 2rem 0 5rem 0;
 }
 
 @media (min-width: 768px) {
-  .td-default main > section:first-of-type {
-      padding: 6rem 0 5rem 0;
+  .td-default main>section:first-of-type {
+    padding: 6rem 0 5rem 0;
   }
 }
 
@@ -92,6 +93,7 @@
 }
 
 // Images
-img, svg {
+img,
+svg {
   max-width: 100%;
 }
