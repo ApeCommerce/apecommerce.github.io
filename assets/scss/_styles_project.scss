@@ -17,27 +17,26 @@ svg {
 
 // Sidebar
 .td-sidebar {
-  padding-bottom: 0;
-}
-
-@media (min-width: 768px) {
-  .td-sidebar {
-    padding-bottom: 2rem;
-  }
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 2rem;
 }
 
 .td-sidebar-nav {
-  margin: 0;
-  padding: 0;
+  margin-left: 0;
+  margin-right: 0;
+  padding-right: 0;
 }
 
-.td-sidebar-nav>.td-sidebar-nav__section {
-  padding: 0;
+.td-sidebar-nav > .td-sidebar-nav__section {
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 .td-sidebar__search {
-  margin: 0;
-  padding: 1rem 0;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 1.5rem 1rem 2rem 1rem;
 }
 
 // Footer
@@ -82,12 +81,12 @@ svg {
 }
 
 // Home first section
-.td-default main>section:first-of-type {
+.td-default main > section:first-of-type {
   padding: 2rem 0 5rem 0;
 }
 
 @media (min-width: 768px) {
-  .td-default main>section:first-of-type {
+  .td-default main > section:first-of-type {
     padding: 6rem 0 5rem 0;
   }
 }
