@@ -9,13 +9,19 @@ menu:
     weight: 1
 ---
 
+<p>
+  <img style="width: 420px;" src="/images/ape_commerce_horizontal.svg">
+</p>
+
+Hello!
+
+This is Ape Commerce doc!
+
 {{<tabpane >}}
- {{<tab header="foo.ts" lang="ts">}}
-const foo = false;
+ {{<tab header="one" lang="ts">}}
+const one = true;
 {{</tab>}}
-{{<tab header="foo.js" lang="js">}}
-const foo = false;
+{{<tab header="two" lang="js">}}
+const two = false;
 {{</tab>}}
 {{</tabpane>}}
-
-Hello

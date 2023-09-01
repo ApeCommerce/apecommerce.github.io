@@ -5,10 +5,10 @@ description: Ape Commerce is a containerized e-commerce platform featuring a web
 
 {{<blocks/lead height="full" color="success">}}
   <h1>
-    <img alt="Ape Commerce" src="/images/ape_commerce_vertical.svg">
+    <img style="width: 340px; max-width: 70%;" src="/images/ape_commerce_vertical.svg" alt="Ape Commerce">
   </h1>
   <div class="mt-5 mb-5">
-    <a class="btn btn-primary mx-2 my-2" href="/documentation">
+    <a class="btn btn-primary mx-2 my-2" href="/doc">
       <i class="fa fa-file-lines me-2"></i> Documentation
     </a>
     <a class="btn btn-primary mx-2 my-2" href="https://github.com/ApeCommerce/ape-commerce" target="_blank">
