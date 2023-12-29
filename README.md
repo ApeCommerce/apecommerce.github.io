@@ -1,6 +1,6 @@
-# Ape Commerce website
+# Ape Commerce documentation website
 
-Ape Commerce documentation website using [Hugo](https://gohugo.io) framework with the [Docsy](https://www.docsy.dev) theme.
+Documentation website for [Ape Commerce](https://github.com/ApeCommerce) using [Hugo](https://gohugo.io) framework with the [Docsy](https://www.docsy.dev) theme.
 
 ## Development
 

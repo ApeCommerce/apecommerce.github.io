@@ -43,7 +43,7 @@ jobs:
         id: pages
         uses: actions/configure-pages@v3
 
-      - name: Build site
+      - name: Build website
         run: hugo --minify -b "${{ steps.pages.outputs.base_url }}/"
         env:
           HUGO_ENVIRONMENT: production
